@@ -26,18 +26,15 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 ~~~
 <img src="images/Base.jpg" alt="The Base" width="200">
 ~~~
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
+<img src="https://github.com/jmuss07/Basic_Onshape_CAD/blob/master/Base.jpg?raw=true" height="500">
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
 
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+
+[Have a link to my Onshape](https://cvilleschools.onshape.com/documents/493463e1e1a526fb559e972d/w/8847d48b6788f1b2821659f2/e/52c6d9218d9e03f7c28bec72)
+
+The base was fairly simple to complete. The onlhy challenging part was adding a pattern for the holes, but now that I have it figured out, it's actually pretty simple!
 
 ---
 
