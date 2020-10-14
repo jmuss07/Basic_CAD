@@ -34,7 +34,7 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 
 
 
-The base was fairly simple to complete. The onlhy challenging part was adding a pattern for the holes, but now that I have it figured out, it's actually pretty simple!
+The base was fairly simple to complete. The only challenging part was adding a pattern for the holes, but now that I have it figured out, it's actually pretty simple!
 
 ---
 
