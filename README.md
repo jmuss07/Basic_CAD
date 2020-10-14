@@ -16,7 +16,7 @@ We are creating a caster.
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges. There is also a large hole in the center that has a diameter of 25mm.
+The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges. There is also a large hole around the center point that has a diameter of 25mm.
 
 ### Evidence
 [Have a link to my Onshape](https://cvilleschools.onshape.com/documents/493463e1e1a526fb559e972d/w/8847d48b6788f1b2821659f2/e/52c6d9218d9e03f7c28bec72)
@@ -60,11 +60,11 @@ This part was also fairly simple to complete, and I honestly did not have any tr
 ### Description
 
 ### Evidence
-
+[Have a link to my Onshape](https://cvilleschools.onshape.com/documents/493463e1e1a526fb559e972d/w/8847d48b6788f1b2821659f2/e/52c6d9218d9e03f7c28bec72)
 ### Image
-
+<img src="https://github.com/jmuss07/Basic_CAD/blob/master/Fork.png?raw=true" height="500">
 ### Reflection
-
+This was also a simple part to complete, and was actually quite enjoyable to work on.
 ---
 
 
