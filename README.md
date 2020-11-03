@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly](#SubAssembly)
 
 ## Base
 
@@ -105,4 +106,30 @@ This part consists of a cylinder with two shallow slices, one on each end. There
 <img src="https://github.com/jmuss07/Basic_CAD/blob/master/Axle,collar,bearing.png?raw=true" height="500">
 ### Reflection
 These parts were relatively simple, and utilised the "use" feature frequently. However, I was confused at first as to how to add the hole, though this problem was resolved once I looked up the problem.
+---
+
+
+## SubAssembly
+
+### Description
+
+The subassembly connected the tire, wheel, axel, and bearings. The wheel and tire used a fixed mate, and the axle and bearings all used rotaional mates.
+
+### Evidence
+[Have a link to my Onshape](https://cvilleschools.onshape.com/documents/493463e1e1a526fb559e972d/w/8847d48b6788f1b2821659f2/e/52c6d9218d9e03f7c28bec72)
+
+### Image
+This is how you will write image code for INTERNALLY STORED images on your repo.   just FYI.
+~~~
+<img src="images/Base.jpg" alt="The Base" width="200">
+~~~
+<img src="https://github.com/jmuss07/Basic_CAD/blob/master/Sub-assembly.png?raw=true" height="500">
+
+### Reflection
+
+
+
+
+This part was fairly easy, though it was somewhat complicated due to the fact that it was my first time making an assembly in Onshape.
+
 ---
