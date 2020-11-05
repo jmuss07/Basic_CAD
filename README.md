@@ -29,6 +29,7 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 ~~~
 <img src="https://github.com/jmuss07/Basic_CAD/blob/master/Base.png?raw=true" height="500">
 
+
 ### Reflection
 
 
@@ -105,6 +106,7 @@ This part consists of a cylinder with two shallow slices, one on each end. There
 ### Image
 <img src="https://github.com/jmuss07/Basic_CAD/blob/master/Axle,collar,bearing.png?raw=true" height="500">
 ### Reflection
+
 These parts were relatively simple, and utilised the "use" feature frequently. However, I was confused at first as to how to add the hole, though this problem was resolved once I looked up the problem.
 ---
 
